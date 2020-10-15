@@ -5,9 +5,7 @@ using namespace std;
 
 int main() {
 	
-	int N;
-	int M;
-	int sum = 0;
+	int N, M, sum = 0;
 	
 	cin >> N >> M;
 	
