@@ -18,7 +18,7 @@ int Count(int len, int x[]){
 }
 
 int main(){
-	//내용 : 결정 알고리 
+	//내용 : 결정 알고리즘 
 	
 	//입력 
 	int m, i, lt=1, rt=0, mid, res;
